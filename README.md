@@ -2,6 +2,8 @@
 
 **AI Era Style Cards** is an open visual reference library for poster design styles. It visualizes how different poster aesthetics behave when applied to AI education, autonomous agents, data networks, and future learning infrastructure.
 
+Live site: https://recomby-ai.github.io/ai-era-style-cards/
+
 中文翻译: [README.zh.md](README.zh.md)
 
 ## What Is Included

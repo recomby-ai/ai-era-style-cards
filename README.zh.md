@@ -2,6 +2,8 @@
 
 **AI 时代色卡**是一个开源的 poster 视觉风格参考库，用可视化色卡的方式展示不同海报风格在 AI 教育、智能体、数据网络、未来课堂等主题下的视觉差异。
 
+在线预览: https://recomby-ai.github.io/ai-era-style-cards/
+
 English version: [README.md](README.md)
 
 ## 项目内容
