@@ -5,7 +5,7 @@ The current cards were generated as AI-era poster style comparison boards.
 ## Base Prompt Pattern
 
 ```text
-Generate a wide AI-era poster style color-card comparison board with 6 panels on a black gallery background. Each panel is labeled with a large clean number and English style name only. Use the same subject across all panels: AI education, autonomous agents, data networks, future classroom, human judgment. Each panel contains 4 mini poster thumbnails in a 2x2 grid. Original designs, no logos, no watermarks, no real brands.
+Generate a wide AI-era poster style-card comparison board with 6 panels on a black gallery background. Each panel is labeled with a large clean number and English style name only. Use the same subject across all panels: AI education, autonomous agents, data networks, future classroom, human judgment. Each panel contains 4 mini poster thumbnails in a 2x2 grid. Original designs, no logos, no watermarks, no real brands.
 
 Batch XX styles:
 1 Style Name: style-specific visual description.

@@ -1,6 +1,6 @@
-# AI Era Color Cards
+# AI Era Style Cards
 
-**AI Era Color Cards** is an open visual reference library for poster design styles. It visualizes how different poster aesthetics behave when applied to AI education, autonomous agents, data networks, and future learning infrastructure.
+**AI Era Style Cards** is an open visual reference library for poster design styles. It visualizes how different poster aesthetics behave when applied to AI education, autonomous agents, data networks, and future learning infrastructure.
 
 中文版本: [README.md](README.md)
 
