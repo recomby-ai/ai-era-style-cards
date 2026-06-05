@@ -1,36 +1,36 @@
-# AI 时代色卡
+# AI Era Style Cards
 
-**AI 时代色卡**是一个开源的 poster 视觉风格参考库，用可视化色卡的方式展示不同海报风格在 AI 教育、智能体、数据网络、未来课堂等主题下的视觉差异。
+**AI Era Style Cards** is an open visual reference library for poster design styles. It visualizes how different poster aesthetics behave when applied to AI education, autonomous agents, data networks, and future learning infrastructure.
 
-English version: [README.en.md](README.en.md)
+中文翻译: [README.zh.md](README.zh.md)
 
-## 项目内容
+## What Is Included
 
-- 140 种 poster / 海报视觉风格
-- 24 张风格对比色卡图
-- 默认网页预览使用压缩缩略图，点击图片可打开原始 PNG
-- 每张色卡展示 2 到 6 种风格
-- 每种风格包含多个小样，用于观察色彩、构图、字体气质和视觉语言
-- 静态网页展示，可直接用于 GitHub Pages
+- 140 poster design styles
+- 24 visual comparison cards
+- Compressed thumbnails for the web gallery, with original PNG files available on click
+- Each card compares 2 to 6 styles
+- Each style includes multiple mini poster samples
+- A static gallery that can be deployed with GitHub Pages
 
-## 在线预览
+## Preview
 
-打开 [index.html](index.html) 即可本地预览。发布到 GitHub Pages 后，它会成为一个可浏览的风格库。
+Open [index.html](index.html) locally to browse the gallery. Once published with GitHub Pages, it becomes a lightweight visual style atlas.
 
-## 适合用途
+## Use Cases
 
-- AI 时代视觉风格参考
-- PPT、课程封面、活动海报风格选择
-- Canva、GPT Image、Midjourney、设计课程的风格词库
-- AI 教育课程的视觉系统探索
-- poster 视觉风格对比和灵感收集
+- Visual references for AI-era design direction
+- Visual direction for PPT covers, course posters, and event posters
+- Style vocabulary for Canva, GPT Image, Midjourney, and design tools
+- Visual system exploration for AI education
+- Poster style comparison and inspiration collection
 
-## 目录结构
+## Project Structure
 
 ```text
 .
 ├── README.md
-├── README.en.md
+├── README.zh.md
 ├── index.html
 ├── styles.css
 ├── app.js
@@ -47,27 +47,27 @@ English version: [README.en.md](README.en.md)
 │   └── style-index.en.md
 ```
 
-## 风格范围
+## Style Coverage
 
-本项目目前覆盖参考清单前 9 类，共 140 种风格：
+The current release covers the first 9 categories from the source style list, with 140 styles in total:
 
-1. 现代主义与经典设计流派
-2. 当代互联网与科技视觉风格
-3. 复古与怀旧风格
-4. 东方美学与自然风格
-5. 艺术与印刷质感风格
-6. 强视觉冲击与青年潮流风格
-7. 排版主导型海报风格
-8. 主题场景型海报风格
-9. 视觉材料与色彩导向风格
+1. Modernism and classic design movements
+2. Contemporary internet and technology aesthetics
+3. Retro and nostalgic aesthetics
+4. Eastern, natural, and organic aesthetics
+5. Art and print texture styles
+6. High-impact youth and trend aesthetics
+7. Typography-driven poster styles
+8. Use-case and theme-based poster styles
+9. Material and color-led visual styles
 
-完整批次索引见：[中文风格索引](docs/style-index.zh.md)
+Full batch index: [English Style Index](docs/style-index.en.md)
 
-## 说明
+## Note
 
-这些图像由 AI 图像模型生成，适合用于视觉风格研究、灵感收集和设计方向讨论。图中的小字和标题不应直接用于正式出版物；如果要制作正式设计稿，建议保留图像风格，重新排版真实文字。
+The images are AI-generated and are intended for visual research, inspiration, and design direction discussions. Small text inside generated images should be treated as visual texture, not production-ready typography. For final design work, replace generated text with real layout and type.
 
-## 许可
+## License
 
-- 代码：MIT License
-- 图片与文档：Creative Commons Attribution 4.0 International，见 [LICENSE-ASSETS.md](LICENSE-ASSETS.md)
+- Code: MIT License
+- Images and documentation: Creative Commons Attribution 4.0 International, see [LICENSE-ASSETS.md](LICENSE-ASSETS.md)
