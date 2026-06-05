@@ -19,7 +19,7 @@ English version: [README.en.md](README.en.md)
 
 ## 适合用途
 
-- AI 图片生成提示词参考
+- AI 时代视觉风格参考
 - PPT、课程封面、活动海报风格选择
 - Canva、GPT Image、Midjourney、设计课程的风格词库
 - AI 教育课程的视觉系统探索
@@ -45,8 +45,6 @@ English version: [README.en.md](README.en.md)
 ├── docs/
 │   ├── style-index.zh.md
 │   └── style-index.en.md
-└── prompts/
-    └── generation-notes.md
 ```
 
 ## 风格范围
@@ -67,7 +65,7 @@ English version: [README.en.md](README.en.md)
 
 ## 说明
 
-这些图像由 AI 图像模型生成，适合用于视觉风格研究、灵感收集和提示词设计。图中的小字和标题不应直接用于正式出版物；如果要制作正式设计稿，建议保留图像风格，重新排版真实文字。
+这些图像由 AI 图像模型生成，适合用于视觉风格研究、灵感收集和设计方向讨论。图中的小字和标题不应直接用于正式出版物；如果要制作正式设计稿，建议保留图像风格，重新排版真实文字。
 
 ## 许可
 

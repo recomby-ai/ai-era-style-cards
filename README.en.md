@@ -19,7 +19,7 @@ Open [index.html](index.html) locally to browse the gallery. Once published with
 
 ## Use Cases
 
-- Prompt references for AI image generation
+- Visual references for AI-era design direction
 - Visual direction for PPT covers, course posters, and event posters
 - Style vocabulary for Canva, GPT Image, Midjourney, and design tools
 - Visual system exploration for AI education
@@ -45,8 +45,6 @@ Open [index.html](index.html) locally to browse the gallery. Once published with
 ├── docs/
 │   ├── style-index.zh.md
 │   └── style-index.en.md
-└── prompts/
-    └── generation-notes.md
 ```
 
 ## Style Coverage
@@ -67,7 +65,7 @@ Full batch index: [English Style Index](docs/style-index.en.md)
 
 ## Note
 
-The images are AI-generated and are intended for visual research, inspiration, and prompt design. Small text inside generated images should be treated as visual texture, not production-ready typography. For final design work, replace generated text with real layout and type.
+The images are AI-generated and are intended for visual research, inspiration, and design direction discussions. Small text inside generated images should be treated as visual texture, not production-ready typography. For final design work, replace generated text with real layout and type.
 
 ## License
 
