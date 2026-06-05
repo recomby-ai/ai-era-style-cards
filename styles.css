@@ -27,11 +27,11 @@ a {
 }
 
 .hero {
-  min-height: 82vh;
+  min-height: auto;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  padding: 24px clamp(18px, 5vw, 72px) 42px;
+  gap: 54px;
+  padding: 24px clamp(18px, 5vw, 72px) 62px;
   border-bottom: 1px solid var(--line);
   background:
     linear-gradient(90deg, rgba(255, 90, 31, 0.24), transparent 38%),
@@ -57,7 +57,7 @@ a {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(300px, 460px);
   gap: 32px;
-  align-items: end;
+  align-items: center;
 }
 
 .eyebrow {
@@ -69,8 +69,8 @@ a {
 h1 {
   margin: 0;
   max-width: 980px;
-  font-size: clamp(56px, 12vw, 168px);
-  line-height: 0.9;
+  font-size: clamp(52px, 8vw, 118px);
+  line-height: 0.92;
   font-weight: 900;
 }
 
@@ -94,13 +94,14 @@ h1 {
 
 .preview-strip {
   display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 8px;
 }
 
 .preview-strip img {
   display: block;
   width: 100%;
-  height: auto;
+  aspect-ratio: 4 / 5;
   object-fit: contain;
   border: 1px solid var(--line);
   background: #000;
