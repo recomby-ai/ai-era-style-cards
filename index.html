@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI 时代色卡 / AI Era Color Cards</title>
+    <meta name="description" content="A bilingual visual atlas of poster design styles for the AI era.">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="hero">
+      <nav class="topbar" aria-label="Primary">
+        <a href="README.md">中文 README</a>
+        <a href="README.en.md">English README</a>
+        <a href="docs/style-index.zh.md">风格索引</a>
+        <a href="prompts/generation-notes.md">Prompts</a>
+      </nav>
+      <div class="hero-grid">
+        <div>
+          <p class="eyebrow">Open Visual Style Atlas</p>
+          <h1>AI 时代色卡</h1>
+          <p class="subtitle">用 24 张对比色卡可视化展示 140 种 poster 视觉风格，帮助选择 AI 教育、课程封面、活动海报和生成式设计的视觉语言。</p>
+          <p class="subtitle en">A bilingual poster style atlas for AI-era visual direction, prompt design, and design education.</p>
+        </div>
+        <div class="stats" aria-label="Project statistics">
+          <div><strong>140</strong><span>Styles</span></div>
+          <div><strong>24</strong><span>Cards</span></div>
+          <div><strong>9</strong><span>Categories</span></div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="toolbar" aria-label="Gallery controls">
+        <label>
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="Neo-Brutalism, 侘寂, Y2K...">
+        </label>
+        <label>
+          <span>Category</span>
+          <select id="categorySelect">
+            <option value="all">All categories</option>
+          </select>
+        </label>
+      </section>
+
+      <section id="gallery" class="gallery" aria-live="polite"></section>
+    </main>
+
+    <footer>
+      <p>Generated as a visual reference library. Replace AI-generated microtext before production use.</p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
+

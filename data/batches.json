@@ -1,0 +1,1197 @@
+{
+  "title": "AI Era Color Cards",
+  "totalStyles": 140,
+  "totalBatches": 24,
+  "categories": [
+    {
+      "key": "modern-classic",
+      "zh": "现代主义与经典设计流派",
+      "en": "Modernism and Classic Design Movements"
+    },
+    {
+      "key": "internet-tech",
+      "zh": "当代互联网与科技视觉风格",
+      "en": "Contemporary Internet and Technology Aesthetics"
+    },
+    {
+      "key": "retro-nostalgic",
+      "zh": "复古与怀旧风格",
+      "en": "Retro and Nostalgic Aesthetics"
+    },
+    {
+      "key": "eastern-natural",
+      "zh": "东方美学与自然风格",
+      "en": "Eastern, Natural, and Organic Aesthetics"
+    },
+    {
+      "key": "art-print",
+      "zh": "艺术与印刷质感风格",
+      "en": "Art and Print Texture Styles"
+    },
+    {
+      "key": "high-impact",
+      "zh": "强视觉冲击与青年潮流风格",
+      "en": "High-impact Youth and Trend Aesthetics"
+    },
+    {
+      "key": "typography",
+      "zh": "排版主导型海报风格",
+      "en": "Typography-driven Poster Styles"
+    },
+    {
+      "key": "theme-based",
+      "zh": "主题场景型海报风格",
+      "en": "Use-case and Theme-based Poster Styles"
+    },
+    {
+      "key": "material-color",
+      "zh": "视觉材料与色彩导向风格",
+      "en": "Material and Color-led Visual Styles"
+    }
+  ],
+  "batches": [
+    {
+      "batch": 1,
+      "image": "assets/cards/batch01.png",
+      "categories": [
+        {
+          "key": "modern-classic",
+          "zh": "现代主义与经典设计流派",
+          "en": "Modernism and Classic Design Movements"
+        }
+      ],
+      "categoryKey": "modern-classic",
+      "categoryZh": "现代主义与经典设计流派",
+      "categoryEn": "Modernism and Classic Design Movements",
+      "styles": [
+        {
+          "id": 1,
+          "name": "Minimalism",
+          "zh": "极简主义"
+        },
+        {
+          "id": 2,
+          "name": "Swiss Style / International Typographic Style",
+          "zh": "瑞士国际主义"
+        },
+        {
+          "id": 3,
+          "name": "Bauhaus",
+          "zh": "包豪斯风"
+        },
+        {
+          "id": 4,
+          "name": "De Stijl",
+          "zh": "风格派"
+        },
+        {
+          "id": 5,
+          "name": "Constructivism",
+          "zh": "构成主义"
+        },
+        {
+          "id": 6,
+          "name": "Modernism",
+          "zh": "现代主义"
+        }
+      ],
+      "thumb": "assets/thumbs/batch01.jpg"
+    },
+    {
+      "batch": 2,
+      "image": "assets/cards/batch02.png",
+      "categories": [
+        {
+          "key": "modern-classic",
+          "zh": "现代主义与经典设计流派",
+          "en": "Modernism and Classic Design Movements"
+        }
+      ],
+      "categoryKey": "modern-classic",
+      "categoryZh": "现代主义与经典设计流派",
+      "categoryEn": "Modernism and Classic Design Movements",
+      "styles": [
+        {
+          "id": 7,
+          "name": "Postmodernism",
+          "zh": "后现代主义"
+        },
+        {
+          "id": 8,
+          "name": "Memphis Design",
+          "zh": "孟菲斯风"
+        },
+        {
+          "id": 9,
+          "name": "Mid-century Modern",
+          "zh": "中世纪现代"
+        },
+        {
+          "id": 10,
+          "name": "Art Deco",
+          "zh": "装饰艺术"
+        },
+        {
+          "id": 11,
+          "name": "Neo Deco",
+          "zh": "新装饰艺术"
+        },
+        {
+          "id": 12,
+          "name": "Art Nouveau",
+          "zh": "新艺术风格"
+        }
+      ],
+      "thumb": "assets/thumbs/batch02.jpg"
+    },
+    {
+      "batch": 3,
+      "image": "assets/cards/batch03.png",
+      "categories": [
+        {
+          "key": "internet-tech",
+          "zh": "当代互联网与科技视觉风格",
+          "en": "Contemporary Internet and Technology Aesthetics"
+        }
+      ],
+      "categoryKey": "internet-tech",
+      "categoryZh": "当代互联网与科技视觉风格",
+      "categoryEn": "Contemporary Internet and Technology Aesthetics",
+      "styles": [
+        {
+          "id": 13,
+          "name": "Neo-Brutalism / Neubrutalism",
+          "zh": "新粗野主义"
+        },
+        {
+          "id": 14,
+          "name": "Brutalism",
+          "zh": "粗野主义"
+        },
+        {
+          "id": 15,
+          "name": "Anti-design",
+          "zh": "反设计"
+        },
+        {
+          "id": 16,
+          "name": "Glassmorphism",
+          "zh": "玻璃拟态"
+        },
+        {
+          "id": 17,
+          "name": "Neumorphism",
+          "zh": "新拟态"
+        },
+        {
+          "id": 18,
+          "name": "Claymorphism",
+          "zh": "黏土风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch03.jpg"
+    },
+    {
+      "batch": 4,
+      "image": "assets/cards/batch04.png",
+      "categories": [
+        {
+          "key": "internet-tech",
+          "zh": "当代互联网与科技视觉风格",
+          "en": "Contemporary Internet and Technology Aesthetics"
+        }
+      ],
+      "categoryKey": "internet-tech",
+      "categoryZh": "当代互联网与科技视觉风格",
+      "categoryEn": "Contemporary Internet and Technology Aesthetics",
+      "styles": [
+        {
+          "id": 19,
+          "name": "Flat Design",
+          "zh": "扁平化"
+        },
+        {
+          "id": 20,
+          "name": "Material Design",
+          "zh": "材料设计"
+        },
+        {
+          "id": 21,
+          "name": "3D / CGI Poster",
+          "zh": "3D CGI 风"
+        },
+        {
+          "id": 22,
+          "name": "Isometric Design",
+          "zh": "等距插画风"
+        },
+        {
+          "id": 23,
+          "name": "Gradient Tech",
+          "zh": "渐变科技风"
+        },
+        {
+          "id": 24,
+          "name": "Aurora Gradient",
+          "zh": "极光渐变风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch04.jpg"
+    },
+    {
+      "batch": 5,
+      "image": "assets/cards/batch05.png",
+      "categories": [
+        {
+          "key": "internet-tech",
+          "zh": "当代互联网与科技视觉风格",
+          "en": "Contemporary Internet and Technology Aesthetics"
+        }
+      ],
+      "categoryKey": "internet-tech",
+      "categoryZh": "当代互联网与科技视觉风格",
+      "categoryEn": "Contemporary Internet and Technology Aesthetics",
+      "styles": [
+        {
+          "id": 25,
+          "name": "Holographic",
+          "zh": "全息镭射风"
+        },
+        {
+          "id": 26,
+          "name": "Dark Tech",
+          "zh": "暗黑科技风"
+        },
+        {
+          "id": 27,
+          "name": "Terminal / Hacker Style",
+          "zh": "终端黑客风"
+        },
+        {
+          "id": 28,
+          "name": "Data Visualization Style",
+          "zh": "数据可视化风"
+        },
+        {
+          "id": 29,
+          "name": "Blueprint Style",
+          "zh": "蓝图风"
+        },
+        {
+          "id": 30,
+          "name": "Wireframe Tech",
+          "zh": "线框科技风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch05.jpg"
+    },
+    {
+      "batch": 6,
+      "image": "assets/cards/batch06.png",
+      "categories": [
+        {
+          "key": "internet-tech",
+          "zh": "当代互联网与科技视觉风格",
+          "en": "Contemporary Internet and Technology Aesthetics"
+        },
+        {
+          "key": "retro-nostalgic",
+          "zh": "复古与怀旧风格",
+          "en": "Retro and Nostalgic Aesthetics"
+        }
+      ],
+      "categoryKey": "retro-nostalgic",
+      "categoryZh": "复古与怀旧风格",
+      "categoryEn": "Retro and Nostalgic Aesthetics",
+      "styles": [
+        {
+          "id": 31,
+          "name": "Generative AI Aesthetic",
+          "zh": "AI生成艺术风"
+        },
+        {
+          "id": 32,
+          "name": "Y2K",
+          "zh": "Y2K 千禧风"
+        },
+        {
+          "id": 33,
+          "name": "Vaporwave",
+          "zh": "蒸汽波"
+        },
+        {
+          "id": 34,
+          "name": "Retro Futurism",
+          "zh": "复古未来主义"
+        },
+        {
+          "id": 35,
+          "name": "Frutiger Aero",
+          "zh": "Frutiger Aero"
+        },
+        {
+          "id": 36,
+          "name": "90s Web",
+          "zh": "90年代网页风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch06.jpg"
+    },
+    {
+      "batch": 7,
+      "image": "assets/cards/batch07.png",
+      "categories": [
+        {
+          "key": "retro-nostalgic",
+          "zh": "复古与怀旧风格",
+          "en": "Retro and Nostalgic Aesthetics"
+        }
+      ],
+      "categoryKey": "retro-nostalgic",
+      "categoryZh": "复古与怀旧风格",
+      "categoryEn": "Retro and Nostalgic Aesthetics",
+      "styles": [
+        {
+          "id": 37,
+          "name": "80s Neon",
+          "zh": "80年代霓虹风"
+        },
+        {
+          "id": 38,
+          "name": "70s Retro",
+          "zh": "70年代复古风"
+        },
+        {
+          "id": 39,
+          "name": "Vintage Travel Poster",
+          "zh": "复古旅行海报"
+        },
+        {
+          "id": 40,
+          "name": "Newspaper Style",
+          "zh": "旧报纸风"
+        },
+        {
+          "id": 41,
+          "name": "Vintage Cinema Poster",
+          "zh": "旧电影海报风"
+        },
+        {
+          "id": 42,
+          "name": "Retro Game / Pixel",
+          "zh": "复古游戏风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch07.jpg"
+    },
+    {
+      "batch": 8,
+      "image": "assets/cards/batch08.png",
+      "categories": [
+        {
+          "key": "retro-nostalgic",
+          "zh": "复古与怀旧风格",
+          "en": "Retro and Nostalgic Aesthetics"
+        },
+        {
+          "key": "eastern-natural",
+          "zh": "东方美学与自然风格",
+          "en": "Eastern, Natural, and Organic Aesthetics"
+        }
+      ],
+      "categoryKey": "eastern-natural",
+      "categoryZh": "东方美学与自然风格",
+      "categoryEn": "Eastern, Natural, and Organic Aesthetics",
+      "styles": [
+        {
+          "id": 43,
+          "name": "Vintage Advertising",
+          "zh": "老广告风"
+        },
+        {
+          "id": 44,
+          "name": "Retro School",
+          "zh": "怀旧校园风"
+        },
+        {
+          "id": 45,
+          "name": "Wabi-sabi",
+          "zh": "侘寂风"
+        },
+        {
+          "id": 46,
+          "name": "Zen Minimalism",
+          "zh": "禅意极简"
+        },
+        {
+          "id": 47,
+          "name": "Japanese Minimalism",
+          "zh": "日式极简"
+        },
+        {
+          "id": 48,
+          "name": "Japanese Editorial",
+          "zh": "日式杂志风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch08.jpg"
+    },
+    {
+      "batch": 9,
+      "image": "assets/cards/batch09.png",
+      "categories": [
+        {
+          "key": "eastern-natural",
+          "zh": "东方美学与自然风格",
+          "en": "Eastern, Natural, and Organic Aesthetics"
+        }
+      ],
+      "categoryKey": "eastern-natural",
+      "categoryZh": "东方美学与自然风格",
+      "categoryEn": "Eastern, Natural, and Organic Aesthetics",
+      "styles": [
+        {
+          "id": 49,
+          "name": "Japanese Retro",
+          "zh": "日式复古风"
+        },
+        {
+          "id": 50,
+          "name": "Modern Chinese Style / Guochao",
+          "zh": "国潮风"
+        },
+        {
+          "id": 51,
+          "name": "Ink Wash Style",
+          "zh": "水墨风"
+        },
+        {
+          "id": 52,
+          "name": "New Chinese Style",
+          "zh": "新中式"
+        },
+        {
+          "id": 53,
+          "name": "Oriental Cyberpunk",
+          "zh": "东方赛博风"
+        },
+        {
+          "id": 54,
+          "name": "Scandinavian Style",
+          "zh": "北欧风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch09.jpg"
+    },
+    {
+      "batch": 10,
+      "image": "assets/cards/batch10.png",
+      "categories": [
+        {
+          "key": "eastern-natural",
+          "zh": "东方美学与自然风格",
+          "en": "Eastern, Natural, and Organic Aesthetics"
+        },
+        {
+          "key": "art-print",
+          "zh": "艺术与印刷质感风格",
+          "en": "Art and Print Texture Styles"
+        }
+      ],
+      "categoryKey": "art-print",
+      "categoryZh": "艺术与印刷质感风格",
+      "categoryEn": "Art and Print Texture Styles",
+      "styles": [
+        {
+          "id": 55,
+          "name": "Organic Design",
+          "zh": "自然有机风"
+        },
+        {
+          "id": 56,
+          "name": "Eco / Sustainable Design",
+          "zh": "可持续设计风"
+        },
+        {
+          "id": 57,
+          "name": "Risograph",
+          "zh": "Riso 印刷风"
+        },
+        {
+          "id": 58,
+          "name": "Screen Print",
+          "zh": "丝网印刷风"
+        },
+        {
+          "id": 59,
+          "name": "Linocut / Woodcut",
+          "zh": "版画风"
+        },
+        {
+          "id": 60,
+          "name": "Collage",
+          "zh": "拼贴风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch10.jpg"
+    },
+    {
+      "batch": 11,
+      "image": "assets/cards/batch11.png",
+      "categories": [
+        {
+          "key": "art-print",
+          "zh": "艺术与印刷质感风格",
+          "en": "Art and Print Texture Styles"
+        }
+      ],
+      "categoryKey": "art-print",
+      "categoryZh": "艺术与印刷质感风格",
+      "categoryEn": "Art and Print Texture Styles",
+      "styles": [
+        {
+          "id": 61,
+          "name": "Mixed Media",
+          "zh": "混合媒介风"
+        },
+        {
+          "id": 62,
+          "name": "Hand-drawn",
+          "zh": "手绘风"
+        },
+        {
+          "id": 63,
+          "name": "Graffiti",
+          "zh": "涂鸦风"
+        },
+        {
+          "id": 64,
+          "name": "Sketch Style",
+          "zh": "速写风"
+        },
+        {
+          "id": 65,
+          "name": "Watercolor",
+          "zh": "水彩风"
+        },
+        {
+          "id": 66,
+          "name": "Oil Painting",
+          "zh": "油画风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch11.jpg"
+    },
+    {
+      "batch": 12,
+      "image": "assets/cards/batch12.png",
+      "categories": [
+        {
+          "key": "art-print",
+          "zh": "艺术与印刷质感风格",
+          "en": "Art and Print Texture Styles"
+        },
+        {
+          "key": "high-impact",
+          "zh": "强视觉冲击与青年潮流风格",
+          "en": "High-impact Youth and Trend Aesthetics"
+        }
+      ],
+      "categoryKey": "high-impact",
+      "categoryZh": "强视觉冲击与青年潮流风格",
+      "categoryEn": "High-impact Youth and Trend Aesthetics",
+      "styles": [
+        {
+          "id": 67,
+          "name": "Patchwork",
+          "zh": "拼布风"
+        },
+        {
+          "id": 68,
+          "name": "Paper Cut / Papercraft",
+          "zh": "纸艺风"
+        },
+        {
+          "id": 69,
+          "name": "Film Grain",
+          "zh": "胶片颗粒风"
+        },
+        {
+          "id": 70,
+          "name": "Grainy Gradient",
+          "zh": "噪点渐变风"
+        },
+        {
+          "id": 71,
+          "name": "Texture-heavy Design",
+          "zh": "纹理主义"
+        },
+        {
+          "id": 72,
+          "name": "Maximalism",
+          "zh": "极繁主义"
+        }
+      ],
+      "thumb": "assets/thumbs/batch12.jpg"
+    },
+    {
+      "batch": 13,
+      "image": "assets/cards/batch13.png",
+      "categories": [
+        {
+          "key": "high-impact",
+          "zh": "强视觉冲击与青年潮流风格",
+          "en": "High-impact Youth and Trend Aesthetics"
+        }
+      ],
+      "categoryKey": "high-impact",
+      "categoryZh": "强视觉冲击与青年潮流风格",
+      "categoryEn": "High-impact Youth and Trend Aesthetics",
+      "styles": [
+        {
+          "id": 73,
+          "name": "Pop Art",
+          "zh": "波普艺术"
+        },
+        {
+          "id": 74,
+          "name": "Psychedelic",
+          "zh": "迷幻风"
+        },
+        {
+          "id": 75,
+          "name": "Op Art",
+          "zh": "光学艺术"
+        },
+        {
+          "id": 76,
+          "name": "Punk",
+          "zh": "朋克风"
+        },
+        {
+          "id": 77,
+          "name": "Grunge",
+          "zh": "Grunge 脏感风"
+        },
+        {
+          "id": 78,
+          "name": "Streetwear",
+          "zh": "街头潮牌风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch13.jpg"
+    },
+    {
+      "batch": 14,
+      "image": "assets/cards/batch14.png",
+      "categories": [
+        {
+          "key": "high-impact",
+          "zh": "强视觉冲击与青年潮流风格",
+          "en": "High-impact Youth and Trend Aesthetics"
+        }
+      ],
+      "categoryKey": "high-impact",
+      "categoryZh": "强视觉冲击与青年潮流风格",
+      "categoryEn": "High-impact Youth and Trend Aesthetics",
+      "styles": [
+        {
+          "id": 79,
+          "name": "Skate Poster",
+          "zh": "滑板文化风"
+        },
+        {
+          "id": 80,
+          "name": "Festival Poster",
+          "zh": "音乐节风"
+        },
+        {
+          "id": 81,
+          "name": "Hip-hop Aesthetic",
+          "zh": "嘻哈风"
+        },
+        {
+          "id": 82,
+          "name": "Cyberpunk",
+          "zh": "赛博朋克"
+        },
+        {
+          "id": 83,
+          "name": "Solarpunk",
+          "zh": "太阳朋克"
+        },
+        {
+          "id": 84,
+          "name": "Black Gold Luxury",
+          "zh": "黑金奢华风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch14.jpg"
+    },
+    {
+      "batch": 15,
+      "image": "assets/cards/batch15.png",
+      "categories": [
+        {
+          "key": "high-impact",
+          "zh": "强视觉冲击与青年潮流风格",
+          "en": "High-impact Youth and Trend Aesthetics"
+        },
+        {
+          "key": "typography",
+          "zh": "排版主导型海报风格",
+          "en": "Typography-driven Poster Styles"
+        }
+      ],
+      "categoryKey": "typography",
+      "categoryZh": "排版主导型海报风格",
+      "categoryEn": "Typography-driven Poster Styles",
+      "styles": [
+        {
+          "id": 85,
+          "name": "High Contrast",
+          "zh": "高对比风"
+        },
+        {
+          "id": 86,
+          "name": "Monochrome",
+          "zh": "单色风"
+        },
+        {
+          "id": 87,
+          "name": "Duotone",
+          "zh": "双色调风"
+        },
+        {
+          "id": 88,
+          "name": "Typography Poster",
+          "zh": "大字报风"
+        },
+        {
+          "id": 89,
+          "name": "Kinetic Typography",
+          "zh": "动态字体风"
+        },
+        {
+          "id": 90,
+          "name": "Experimental Typography",
+          "zh": "实验字体风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch15.jpg"
+    },
+    {
+      "batch": 16,
+      "image": "assets/cards/batch16.png",
+      "categories": [
+        {
+          "key": "typography",
+          "zh": "排版主导型海报风格",
+          "en": "Typography-driven Poster Styles"
+        }
+      ],
+      "categoryKey": "typography",
+      "categoryZh": "排版主导型海报风格",
+      "categoryEn": "Typography-driven Poster Styles",
+      "styles": [
+        {
+          "id": 91,
+          "name": "Type-only Poster",
+          "zh": "字体海报"
+        },
+        {
+          "id": 92,
+          "name": "Grid Layout",
+          "zh": "网格排版风"
+        },
+        {
+          "id": 93,
+          "name": "Editorial Cover",
+          "zh": "杂志封面风"
+        },
+        {
+          "id": 94,
+          "name": "Newspaper Layout",
+          "zh": "报刊排版风"
+        },
+        {
+          "id": 95,
+          "name": "Information Hierarchy",
+          "zh": "信息层级风"
+        },
+        {
+          "id": 96,
+          "name": "Typographic Collage",
+          "zh": "海报字体拼贴风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch16.jpg"
+    },
+    {
+      "batch": 17,
+      "image": "assets/cards/batch17.png",
+      "categories": [
+        {
+          "key": "typography",
+          "zh": "排版主导型海报风格",
+          "en": "Typography-driven Poster Styles"
+        },
+        {
+          "key": "theme-based",
+          "zh": "主题场景型海报风格",
+          "en": "Use-case and Theme-based Poster Styles"
+        }
+      ],
+      "categoryKey": "theme-based",
+      "categoryZh": "主题场景型海报风格",
+      "categoryEn": "Use-case and Theme-based Poster Styles",
+      "styles": [
+        {
+          "id": 97,
+          "name": "Handwritten Typography",
+          "zh": "手写字体风"
+        },
+        {
+          "id": 98,
+          "name": "Calligraphy Poster",
+          "zh": "书法字体风"
+        },
+        {
+          "id": 99,
+          "name": "Letterform Experiment",
+          "zh": "字母变形风"
+        },
+        {
+          "id": 100,
+          "name": "Big Number Poster",
+          "zh": "超大数字风"
+        },
+        {
+          "id": 101,
+          "name": "Slogan Poster",
+          "zh": "标语海报风"
+        },
+        {
+          "id": 102,
+          "name": "Academic Conference Poster",
+          "zh": "学术会议风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch17.jpg"
+    },
+    {
+      "batch": 18,
+      "image": "assets/cards/batch18.png",
+      "categories": [
+        {
+          "key": "theme-based",
+          "zh": "主题场景型海报风格",
+          "en": "Use-case and Theme-based Poster Styles"
+        }
+      ],
+      "categoryKey": "theme-based",
+      "categoryZh": "主题场景型海报风格",
+      "categoryEn": "Use-case and Theme-based Poster Styles",
+      "styles": [
+        {
+          "id": 103,
+          "name": "Research Poster",
+          "zh": "科研论文海报风"
+        },
+        {
+          "id": 104,
+          "name": "University Lecture Poster",
+          "zh": "大学讲座风"
+        },
+        {
+          "id": 105,
+          "name": "Course Promotion Poster",
+          "zh": "课程宣传风"
+        },
+        {
+          "id": 106,
+          "name": "Science Communication Poster",
+          "zh": "科普海报风"
+        },
+        {
+          "id": 107,
+          "name": "Museum Poster",
+          "zh": "博物馆展览风"
+        },
+        {
+          "id": 108,
+          "name": "Gallery Poster",
+          "zh": "艺术展海报风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch18.jpg"
+    },
+    {
+      "batch": 19,
+      "image": "assets/cards/batch19.png",
+      "categories": [
+        {
+          "key": "theme-based",
+          "zh": "主题场景型海报风格",
+          "en": "Use-case and Theme-based Poster Styles"
+        }
+      ],
+      "categoryKey": "theme-based",
+      "categoryZh": "主题场景型海报风格",
+      "categoryEn": "Use-case and Theme-based Poster Styles",
+      "styles": [
+        {
+          "id": 109,
+          "name": "Product Launch Poster",
+          "zh": "商业发布会风"
+        },
+        {
+          "id": 110,
+          "name": "Startup SaaS Style",
+          "zh": "创业公司 SaaS 风"
+        },
+        {
+          "id": 111,
+          "name": "Hackathon Poster",
+          "zh": "黑客松风"
+        },
+        {
+          "id": 112,
+          "name": "Cybersecurity Poster",
+          "zh": "网络安全风"
+        },
+        {
+          "id": 113,
+          "name": "AI Education Poster",
+          "zh": "AI课程风"
+        },
+        {
+          "id": 114,
+          "name": "Public Welfare Poster",
+          "zh": "公益宣传风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch19.jpg"
+    },
+    {
+      "batch": 20,
+      "image": "assets/cards/batch20.png",
+      "categories": [
+        {
+          "key": "theme-based",
+          "zh": "主题场景型海报风格",
+          "en": "Use-case and Theme-based Poster Styles"
+        }
+      ],
+      "categoryKey": "theme-based",
+      "categoryZh": "主题场景型海报风格",
+      "categoryEn": "Use-case and Theme-based Poster Styles",
+      "styles": [
+        {
+          "id": 115,
+          "name": "Anti-scam Education Poster",
+          "zh": "反诈教育风"
+        },
+        {
+          "id": 116,
+          "name": "Cinematic Poster",
+          "zh": "电影海报风"
+        },
+        {
+          "id": 117,
+          "name": "Documentary Poster",
+          "zh": "纪录片风"
+        },
+        {
+          "id": 118,
+          "name": "Sports Poster",
+          "zh": "体育赛事风"
+        },
+        {
+          "id": 119,
+          "name": "Game Poster",
+          "zh": "游戏宣传风"
+        },
+        {
+          "id": 120,
+          "name": "Anime / Manga Poster",
+          "zh": "动漫风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch20.jpg"
+    },
+    {
+      "batch": 21,
+      "image": "assets/cards/batch21.png",
+      "categories": [
+        {
+          "key": "theme-based",
+          "zh": "主题场景型海报风格",
+          "en": "Use-case and Theme-based Poster Styles"
+        },
+        {
+          "key": "material-color",
+          "zh": "视觉材料与色彩导向风格",
+          "en": "Material and Color-led Visual Styles"
+        }
+      ],
+      "categoryKey": "material-color",
+      "categoryZh": "视觉材料与色彩导向风格",
+      "categoryEn": "Material and Color-led Visual Styles",
+      "styles": [
+        {
+          "id": 121,
+          "name": "Comic Style",
+          "zh": "漫画风"
+        },
+        {
+          "id": 122,
+          "name": "Kids Education Poster",
+          "zh": "儿童教育风"
+        },
+        {
+          "id": 123,
+          "name": "Medical Poster",
+          "zh": "医疗健康风"
+        },
+        {
+          "id": 124,
+          "name": "Fintech Poster",
+          "zh": "金融科技风"
+        },
+        {
+          "id": 125,
+          "name": "Environmental Poster",
+          "zh": "环保公益风"
+        },
+        {
+          "id": 126,
+          "name": "Dark Premium",
+          "zh": "暗色高级风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch21.jpg"
+    },
+    {
+      "batch": 22,
+      "image": "assets/cards/batch22.png",
+      "categories": [
+        {
+          "key": "material-color",
+          "zh": "视觉材料与色彩导向风格",
+          "en": "Material and Color-led Visual Styles"
+        }
+      ],
+      "categoryKey": "material-color",
+      "categoryZh": "视觉材料与色彩导向风格",
+      "categoryEn": "Material and Color-led Visual Styles",
+      "styles": [
+        {
+          "id": 127,
+          "name": "Light Premium",
+          "zh": "浅色高级风"
+        },
+        {
+          "id": 128,
+          "name": "Pastel Style",
+          "zh": "马卡龙风"
+        },
+        {
+          "id": 129,
+          "name": "Neon Contrast",
+          "zh": "荧光撞色风"
+        },
+        {
+          "id": 130,
+          "name": "Black & White Minimal",
+          "zh": "黑白极简风"
+        },
+        {
+          "id": 131,
+          "name": "Red Black Alert",
+          "zh": "红黑警示风"
+        },
+        {
+          "id": 132,
+          "name": "Blue-purple AI",
+          "zh": "蓝紫 AI 风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch22.jpg"
+    },
+    {
+      "batch": 23,
+      "image": "assets/cards/batch23.png",
+      "categories": [
+        {
+          "key": "material-color",
+          "zh": "视觉材料与色彩导向风格",
+          "en": "Material and Color-led Visual Styles"
+        }
+      ],
+      "categoryKey": "material-color",
+      "categoryZh": "视觉材料与色彩导向风格",
+      "categoryEn": "Material and Color-led Visual Styles",
+      "styles": [
+        {
+          "id": 133,
+          "name": "Green Eco",
+          "zh": "绿色环保风"
+        },
+        {
+          "id": 134,
+          "name": "Metallic Silver",
+          "zh": "金属银风"
+        },
+        {
+          "id": 135,
+          "name": "Paper Texture",
+          "zh": "纸张纹理风"
+        },
+        {
+          "id": 136,
+          "name": "Glass Texture",
+          "zh": "玻璃材质风"
+        },
+        {
+          "id": 137,
+          "name": "Plastic Aesthetic",
+          "zh": "塑料感风"
+        },
+        {
+          "id": 138,
+          "name": "Liquid Metal",
+          "zh": "液态金属风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch23.jpg"
+    },
+    {
+      "batch": 24,
+      "image": "assets/cards/batch24.png",
+      "categories": [
+        {
+          "key": "material-color",
+          "zh": "视觉材料与色彩导向风格",
+          "en": "Material and Color-led Visual Styles"
+        }
+      ],
+      "categoryKey": "material-color",
+      "categoryZh": "视觉材料与色彩导向风格",
+      "categoryEn": "Material and Color-led Visual Styles",
+      "styles": [
+        {
+          "id": 139,
+          "name": "Pixel / Grain",
+          "zh": "像素颗粒风"
+        },
+        {
+          "id": 140,
+          "name": "Fluid Abstract",
+          "zh": "流体抽象风"
+        }
+      ],
+      "thumb": "assets/thumbs/batch24.jpg"
+    }
+  ]
+}
